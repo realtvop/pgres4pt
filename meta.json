@@ -1,0 +1,22 @@
+{
+    "name": "Phigros",
+    "author": "Pigeon Games",
+    "includesHitSongs": false,
+    "res": {
+        "clickRaw.png": "http://127.0.0.1:8081/static/src/respack/pgr-pack/clickRaw.png",
+        "Tap.png": "http://127.0.0.1:8081/static/src/respack/pgr-pack/Tap.png",
+        "TapHL.png": "http://127.0.0.1:8081/static/src/respack/pgr-pack/TapHL.png",
+        "Drag.png": "http://127.0.0.1:8081/static/src/respack/pgr-pack/Drag.png",
+        "DragHL.png": "http://127.0.0.1:8081/static/src/respack/pgr-pack/DragHL.png",
+        "HoldHead.png": "http://127.0.0.1:8081/static/src/respack/pgr-pack/HoldHead.png",
+        "HoldHeadHL.png": "http://127.0.0.1:8081/static/src/respack/pgr-pack/HoldHeadHL.png",
+        "Hold.png": "http://127.0.0.1:8081/static/src/respack/pgr-pack/Hold.png",
+        "HoldHL.png": "http://127.0.0.1:8081/static/src/respack/pgr-pack/HoldHL.png",
+        "HoldEnd.png": "http://127.0.0.1:8081/static/src/respack/pgr-pack/HoldEnd.png",
+        "Flick.png": "http://127.0.0.1:8081/static/src/respack/pgr-pack/Flick.png",
+        "FlickHL.png": "http://127.0.0.1:8081/static/src/respack/pgr-pack/FlickHL.png",
+        "HitSong0.ogg": "http://127.0.0.1:8081/static/src/respack/pgr-pack/HitSong0.ogg/",
+        "HitSong1.ogg": "http://127.0.0.1:8081/static/src/respack/pgr-pack/HitSong1.ogg/",
+        "HitSong2.ogg": "http://127.0.0.1:8081/static/src/respack/pgr-pack/HitSong2.ogg/"
+    }
+}
