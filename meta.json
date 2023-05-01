@@ -1,7 +1,7 @@
 {
     "name": "Phigros",
     "author": "Pigeon Games",
-    "includesHitSongs": false,
+    "includesHitSongs": true,
     "res": {
         "clickRaw.png": "https://cdn.jsdelivr.net/gh/realtvop/pgres4pt/clickRaw.png",
         "Tap.png": "https://cdn.jsdelivr.net/gh/realtvop/pgres4pt/Tap.png",
