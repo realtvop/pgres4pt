@@ -19,5 +19,5 @@
         "HitSong1.ogg": "https://cdn.jsdelivr.net/gh/realtvop/pgres4pt/HitSong1.ogg",
         "HitSong2.ogg": "https://cdn.jsdelivr.net/gh/realtvop/pgres4pt/HitSong2.ogg"
     },
-    "hitEvtNative": true
+    "hitEvtType": 1
 }
