@@ -1,0 +1,16 @@
+{
+    "name": "萨卡班甲鱼",
+    "author": "bilibili & MVsVPD & 飞机上的长电视",
+    "includesHitSongs": false,
+    "holdType": "prpr",
+    "res": {
+        "Tap.png": "https://pgres4pt.realtvop.eu.org/fish/click.png",
+        "TapHL.png": "https://pgres4pt.realtvop.eu.org/fish/click_mh.png",
+        "Drag.png": "https://pgres4pt.realtvop.eu.org/fish/drag.png",
+        "DragHL.png": "https://pgres4pt.realtvop.eu.org/fish/drag_mh.png",
+        "Hold.png": "https://pgres4pt.realtvop.eu.org/fish/hold.png",
+        "HoldHL.png": "https://pgres4pt.realtvop.eu.org/fish/hold_mh.png",
+        "Flick.png": "https://pgres4pt.realtvop.eu.org/fish/flick.png",
+        "FlickHL.png": "https://pgres4pt.realtvop.eu.org/fish/flick_mh.png"
+    }
+}
