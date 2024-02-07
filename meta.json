@@ -19,5 +19,6 @@
         "HitSong1.ogg": "https://pgres4pt.realtvop.eu.org/HitSong1.ogg",
         "HitSong2.ogg": "https://pgres4pt.realtvop.eu.org/HitSong2.ogg"
     },
-    "hitEvtType": 1
+    "hitEvtType": 1,
+    "hitEvtDrawer": "ctxos.fillRect(ds*Math.cos(j[1])-r3/2,ds*Math.sin(j[1])-r3/2,r3,r3);"
 }
